@@ -1439,7 +1439,7 @@ h4{
 /* Reduce the size of the image */
 .questionsImg {
     border: 4px solid #e1680b;
-    border-radius: 50%;
+    border-radius: 500px;
     height: 35rem;
     width: 22rem;
     margin: auto;
@@ -1448,7 +1448,7 @@ h4{
 .questionsImg > img {
     height: 100%;
     width: 100%;
-    border-radius: 50%;
+    border-radius: 500px;
     object-fit: cover;
     position: relative;
     top: 10px;

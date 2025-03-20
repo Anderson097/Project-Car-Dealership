@@ -1509,8 +1509,8 @@ h4{
     opacity: 0;
     transition: max-height 0.4s ease-in-out, opacity 0.3s ease-in-out;
     background: #fff;
-    padding: 0 0px;
     border-radius: 10px;
+    margin-top: -10px;
 }
 
 /* Show answer when input is checked */
@@ -1567,7 +1567,7 @@ h4{
     }
 
     .sizes {
-        height: auto;
+        height: 20px;
         padding: 12px;
     }
 
@@ -1596,6 +1596,7 @@ h4{
 
     .sizes {
         padding: 10px;
+        height: 5rem;
     }
 
     .answer {

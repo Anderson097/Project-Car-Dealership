@@ -1510,7 +1510,6 @@ h4{
     transition: max-height 0.4s ease-in-out, opacity 0.3s ease-in-out;
     background: #fff;
     border-radius: 10px;
-    margin-top: -10px;
 }
 
 /* Show answer when input is checked */
@@ -1578,6 +1577,10 @@ h4{
     .questions > h1 {
         font-size: 22px;
     }
+
+    .answer{
+        margin-top: -10px;
+    }
 }
 
 @media (max-width: 480px) {
@@ -1601,6 +1604,7 @@ h4{
 
     .answer {
         font-size: 14px;
+        margin-top: -10px;
     }
 }
 

@@ -1142,6 +1142,7 @@ nav {
 }
 
 .blog{
+    display: flex;
     justify-content: center;
     align-items: center;
     margin: 4rem auto;
@@ -1194,10 +1195,12 @@ nav {
     font-weight: 400;
     font-style: normal;
     font-size: 15px;
+    color: #fff;
 }
 
 .blog > .sunImgCont > p > span{
     font-family: "Outfit", sans-serif;
+    color: #fff;
 }
 
 .rating{
